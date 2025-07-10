@@ -13,6 +13,12 @@ This is a beginner-friendly Python project that mimics a basic healthcare assist
 ---
 
 ## 📁 Project Structure
+📦 medical-diagnosis-assistant/
+├── medical_diagnosis_assistant.py   # 💉 Main logic to detect illness based on symptoms
+├── patients_data.py                 # 👥 Contains multiple patient data and symptoms
+├── README.md                        # 📘 Project documentation with badges & usage info
+├── LICENSE                          # 📄 MIT License for open-source usage
+└── __pycache__/                     # ⚙️ Auto-generated Python cache files (can be ignored)
 
 ## 📁 Files Included
 
