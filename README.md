@@ -1,4 +1,7 @@
-8# 🏥 Medical Diagnosis Assistant
+# 🏥 Medical Diagnosis Assistant
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 This is a beginner-friendly Python project that mimics a basic healthcare assistant. It takes symptoms as input and provides possible illness prediction, risk level, and medical advice — all based on basic logic and real-world relevance.
 ---
