@@ -50,3 +50,6 @@ Here’s how the program displays diagnosis details for each patient based on th
 
 - Beginners learning conditional logic
 - Simple real-world problem simulation
+
+---
+💡 Developed with ❤️ by [Aeshika](#)
