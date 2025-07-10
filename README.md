@@ -1,13 +1,18 @@
 # 🏥 Medical Diagnosis Assistant
 
 This is a beginner-friendly Python project that mimics a basic healthcare assistant. It takes symptoms as input and provides possible illness prediction, risk level, and medical advice — all based on basic logic and real-world relevance.
+---
+## 📌 Features
 
-## ✅ Features
+- 📋 Analyze symptoms for multiple patients  
+- 🩺 Detect common illnesses like Dengue, COVID-19, Cold, etc.  
+- ⚠️ Displays health **risk level** and medical **advice**  
+- 👩‍💻 Beginner-friendly and easy to customize  
+- 🔁 Modular structure using separate patient data file  
 
-- Analyze symptoms for multiple patients
-- Diagnose common illnesses like Dengue, COVID-19, Common Cold, etc.
-- Gives health risk level and advice
-- Simple and clean Python code
+---
+
+## 📁 Project Structure
 
 ## 📁 Files Included
 
