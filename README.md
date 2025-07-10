@@ -1,4 +1,4 @@
-# 🏥 Medical Diagnosis Assistant
+8# 🏥 Medical Diagnosis Assistant
 
 This is a beginner-friendly Python project that mimics a basic healthcare assistant. It takes symptoms as input and provides possible illness prediction, risk level, and medical advice — all based on basic logic and real-world relevance.
 ---
@@ -35,6 +35,15 @@ This is a beginner-friendly Python project that mimics a basic healthcare assist
 ```bash
 python medical_diagnosis_assistant.py
 ```
+## 💡 Sample Output
+Here’s how the program displays diagnosis details for each patient based on their symptoms:
+👤 Patient: Iris (29 yrs)
+🩺 Symptoms: High Fever, Headache, Joint Pain, Skin Rash
+📘 Possible Illness: Dengue
+⚠️ Risk Level: High
+💡 Advice: Please visit a hospital immediately for a blood test and hydration treatment.
+
+...
 
 ## 🎯 Ideal For
 
